@@ -1,0 +1,26 @@
+*`{
+
+}
+
+h1 { 
+    color: #00ff00;
+    background: #ff0000;
+}
+
+p {
+    color: #0000ff;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: ;
+}
+
+button {
+    background: #ffff00;
+    border-color: #00ffff;
+    cursor: pointer;
+   
+}
+
+.botao { 
+    background-color: #0000ff;
+}
